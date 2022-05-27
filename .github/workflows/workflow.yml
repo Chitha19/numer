@@ -19,7 +19,7 @@ jobs:
         working-directory: ./react_numer
         run : npm 
         
-        name: npm ci
+      - name: npm ci
         working-directory: ./react_numer
         run : npm ci
 
